@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trail-two/static/css/main.f4bfa63c.css",
+    "main.js": "/trail-two/static/js/main.ee4d2c96.js",
+    "index.html": "/trail-two/index.html",
+    "main.f4bfa63c.css.map": "/trail-two/static/css/main.f4bfa63c.css.map",
+    "main.ee4d2c96.js.map": "/trail-two/static/js/main.ee4d2c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bfa63c.css",
+    "static/js/main.ee4d2c96.js"
+  ]
+}
